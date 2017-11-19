@@ -1,0 +1,35 @@
+#menu, #test {
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+#cList {
+    width: 50%;
+}
+
+#createBox {
+    position: absolute;
+    left:400px;
+    top:1px;
+    width: 50%;
+}
+
+button {
+    margin: 10px;
+}
+
+input {
+    border:none;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: gray;
+}
+
+#createButton {
+    display: block;
+    clear: both;
+    color: white;
+    background-color: blue;
+    padding: 5px 20px 5px 20px;
+    align-content:  center;
+}
